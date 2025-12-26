@@ -33,7 +33,7 @@ export const Hero: React.FC = () => {
           transition={{ duration: 1, delay: 0.5 }}
           className="text-3xl lg:text-4xl text-[#40464D] max-w-3xl font-medium leading-[1.3] text-balance"
         >
-          Parth Chhikara — First-year BTech student architecting energy harvesting, IoT nodes, and high-performance digital logic.
+          Parth Saarthi Chhikara - First-year BTech student architecting energy harvesting, IoT nodes, and high-performance digital logic.
         </motion.p>
 
         <motion.div
