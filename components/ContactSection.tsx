@@ -16,9 +16,9 @@ export const ContactSection: React.FC = () => {
 
       <div className="flex flex-wrap gap-12">
         {[
-          { label: "Mail Node", icon: Mail, href: "mailto:hello@parth.dev" },
-          { label: "Source Forge", icon: Github, href: "#" },
-          { label: "Network Log", icon: Linkedin, href: "#" }
+          { label: "Mail Node", icon: Mail, href: "mailto:parthsaarthichhikara@gmail.com" },
+          { label: "Source Forge", icon: Github, href: "https://github.com/parth-access" },
+          { label: "Network Log", icon: Linkedin, href: "https://www.linkedin.com/in/parth-access/" }
         ].map((link, i) => (
           <a 
             key={i}

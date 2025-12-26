@@ -38,7 +38,7 @@ export const Capabilities: React.FC = () => {
   return (
     <div className="w-full">
       <div className="mb-32 space-y-8">
-        <h3 className="text-6xl lg:text-8xl font-extrabold tracking-tight text-[#1A1D21]">How I Build_</h3>
+        <h3 className="text-6xl lg:text-8xl font-extrabold tracking-tight text-[#1A1D21]">How I Build</h3>
         <p className="text-2xl text-zinc-600 font-medium max-w-2xl leading-relaxed">
           The fundamental principles that govern every line of code and hardware design I deploy.
         </p>
